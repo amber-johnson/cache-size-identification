@@ -1,0 +1,23 @@
+x86_64-linux-gnu: no data for Memory load parallelism
+x86_64-linux-gnu: lat_mem_rand = 218.707
+
+                 L M B E N C H  3 . 0   S U M M A R Y
+                 ------------------------------------
+         (Alpha software, do not distribute)
+
+Argument "" isn't numeric in numeric gt (>) at ../scripts/getsummary line 944, <FD> line 1771.
+
+*Local* Communication bandwidths in MB/s - bigger is better
+-----------------------------------------------------------------------------
+Host                OS  Pipe AF    TCP  File   Mmap  Bcopy  Bcopy  Mem   Mem
+                             UNIX      reread reread (libc) (hand) read write
+--------- ------------- ---- ---- ---- ------ ------ ------ ------ ---- -----
+klaasje   Linux 5.3.0-4                               11.5K 6367.6 10.K 10.2K
+
+Memory latencies in nanoseconds - smaller is better
+    (WARNING - may not be correct, check graphs)
+------------------------------------------------------------------------------
+Host                 OS   Mhz   L1 $   L2 $    Main mem    Rand mem    Guesses
+--------- -------------   ---   ----   ----    --------    --------    -------
+klaasje   Linux 5.3.0-4  1696 1.1820 4.1850   28.4       218.7
+

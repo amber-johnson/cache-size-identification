@@ -1,0 +1,15 @@
+C:\Program Files\Intel_MLC\Windows>mlc --idle_latency -b3000 -c0 -t1
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -b3000 -c0 -t1
+
+Using buffer size of 2.930MiB
+Each iteration took 50.7 core clocks (  25.5    ns)
+
+
+
+C:\Program Files\Intel_MLC\Windows>mlc --idle_latency -b3000 -c0 -t3
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -b3000 -c0 -t3
+
+Using buffer size of 2.930MiB
+Each iteration took 22.0 core clocks (  11.0    ns)

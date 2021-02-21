@@ -1,0 +1,4 @@
+L1 cache: 32768 bytes 1.21 nanoseconds 64 linesize 7.99 parallelism
+L2 cache: 262144 bytes 3.61 nanoseconds 128 linesize 5.87 parallelism
+L3 cache: 4194304 bytes 10.14 nanoseconds 256 linesize 6.17 parallelism
+Memory latency: 99.06 nanoseconds 3.44 parallelism

@@ -1,0 +1,11 @@
+--- cache.c	2005-08-22 20:19:54.000000000 -0400
++++ lmbench3/src/cache.c	2020-04-08 21:16:38.543339778 -0400
+@@ -309,7 +309,7 @@
+ 	}
+ 	search(0, samples - 1, repetitions, &state, p);
+ 
+-	/*
++	/**/
+ 	fprintf(stderr, "%10.10s %8.8s %8.8s %8.8s %8.8s %5.5s %5.5s\n", 
+ 		"mem size", "latency", "variation", "ratio", "slope", 
+ 		"line", "mline");

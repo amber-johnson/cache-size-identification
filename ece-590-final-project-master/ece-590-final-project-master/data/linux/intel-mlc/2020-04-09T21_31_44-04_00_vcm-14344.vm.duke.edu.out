@@ -1,0 +1,89 @@
+Executing mlc using the following static args: --idle_latency -c0 -t20 -e -r\n\n
+Testing with a buffer size of 32 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b32 
+
+Using buffer size of 0.031MiB
+Each iteration took 3.2 core clocks (	1.4	ns)
+
+\n
+Testing with a buffer size of 64 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b64 
+
+Using buffer size of 0.062MiB
+Each iteration took 10.8 core clocks (	4.7	ns)
+
+\n
+Testing with a buffer size of 128 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b128 
+
+Using buffer size of 0.125MiB
+Each iteration took 10.9 core clocks (	4.7	ns)
+
+\n
+Testing with a buffer size of 256 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b256 
+
+Using buffer size of 0.250MiB
+Each iteration took 10.8 core clocks (	4.7	ns)
+
+\n
+Testing with a buffer size of 512 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b512 
+
+Using buffer size of 0.500MiB
+Each iteration took 11.0 core clocks (	4.8	ns)
+
+\n
+Testing with a buffer size of 1024 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b1024 
+
+Using buffer size of 1.000MiB
+Each iteration took 19.8 core clocks (	8.6	ns)
+
+\n
+Testing with a buffer size of 2048 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b2048 
+
+Using buffer size of 2.000MiB
+Each iteration took 50.1 core clocks (	21.8	ns)
+
+\n
+Testing with a buffer size of 4096 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b4096 
+
+Using buffer size of 4.000MiB
+Each iteration took 51.7 core clocks (	22.5	ns)
+
+\n
+Testing with a buffer size of 8192 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b8192 
+
+Using buffer size of 8.000MiB
+Each iteration took 53.0 core clocks (	23.0	ns)
+
+\n
+Testing with a buffer size of 16384 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b16384 
+
+Using buffer size of 16.000MiB
+Each iteration took 76.1 core clocks (	33.1	ns)
+
+\n
+Testing with a buffer size of 32768 KB...
+Intel(R) Memory Latency Checker - v3.8
+Command line parameters: --idle_latency -c0 -t20 -e -r -b32768 
+
+Using buffer size of 32.000MiB
+Each iteration took 170.9 core clocks (	74.3	ns)
+
+\n
