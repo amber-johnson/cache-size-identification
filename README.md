@@ -1,16 +1,16 @@
 # Cache Size Identification Project
 
-### Technologies used
+### Technologies/skills demonstrated
 * Python
 * Bash scripting
-* Intel-MLC
-* lmbench
-* tinymembench
+* Data analysis
+* Technical writing
+* Software selection
 
-### Code example
-Please review the Python script I have placed in this folder, which shows how I used Python with the Pandas package to structure and analyze data from the selected tools. 
+### Code samples
+Please review the [Python script](ece-590-final-project-master/data/analyze.py), which shows how I used Python with the Pandas package to structure and analyze data output from the selected tools. 
 
-If you are interested in our project results, please review the PDF also placed in this folder.  
+For an example of technical writing and result analysis, please review our [final paper](Cache-Size-Identification-Johnson-Riesbos-2020).  
 
 ### Background
 I worked on this project as part of a graduate-level class in the Department Electrical and Computer Engineering (ECE) at Duke University.  The course was ECE 590: Conventional and Emerging Memory Systems and was taught by Dr. Helen Li.  I was enrolled for the Spring 2020 semester, and my partner for the project was Leon Riesbos, a PhD student in the ECE Department.
