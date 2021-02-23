@@ -23,3 +23,7 @@ Both my partner and I researched available tools, and we selected intel-mlc, tin
 As Leon had more experience working with operating systems, he tested the tools on his machine and created the scripts to help run the tools.  We tested each tool on our personal laptops, and Leon tested the tools on a virtual machine provided by the Duke Computing Cluster.
 
 Once the data was collected, I created a Python program to clean the data and detect edges.  These edges could be used to determine experimentally cache size thresholds.  Together we plotted the data and compared apparent jumps in the scatterplots to the edges detected with the program.  We worked together to create a short paper in IEEE format which was submitted for our class.
+
+### How to deploy
+*Coming soon.*
+
