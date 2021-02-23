@@ -10,7 +10,7 @@
 ### Key files
 Please review the Python script I have placed in this folder, which shows how I used Python with the Pandas package to structure and analyze data from the selected tools. 
 
-If you are interested in our project results, please review the PDF also placed in this file.  
+If you are interested in our project results, please review the PDF also placed in this folder.  
 
 
 ### Background
