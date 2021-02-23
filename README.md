@@ -25,5 +25,5 @@ As Leon had more experience working with operating systems, he tested the tools 
 Once the data was collected, I created a Python program to clean the data and detect edges.  These edges could be used to determine experimentally cache size thresholds.  Together we plotted the data and compared apparent jumps in the scatterplots to the edges detected with the program.  We worked together to create a short paper in IEEE format which was submitted for our class.
 
 ### How to deploy
-*Instructions coming soon.*
+*Instructions coming soon*
 
